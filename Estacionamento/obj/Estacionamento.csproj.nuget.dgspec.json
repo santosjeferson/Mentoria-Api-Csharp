@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeferson\\Desktop\\Estacionamento\\Estacionamento\\Estacionamento.csproj": {}
+    "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeferson\\Desktop\\Estacionamento\\Estacionamento\\Estacionamento.csproj": {
+    "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeferson\\Desktop\\Estacionamento\\Estacionamento\\Estacionamento.csproj",
+        "projectUniqueName": "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj",
         "projectName": "Estacionamento",
-        "projectPath": "C:\\Users\\Jeferson\\Desktop\\Estacionamento\\Estacionamento\\Estacionamento.csproj",
+        "projectPath": "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj",
         "packagesPath": "C:\\Users\\Jeferson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeferson\\Desktop\\Estacionamento\\Estacionamento\\obj\\",
+        "outputPath": "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeferson\\AppData\\Roaming\\NuGet\\NuGet.Config",
