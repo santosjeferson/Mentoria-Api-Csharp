@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj": {}
+    "C:\\Jeferson\\Projetos de estudos\\mentoriaC#\\Estacionamento\\Estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj": {
+    "C:\\Jeferson\\Projetos de estudos\\mentoriaC#\\Estacionamento\\Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj",
+        "projectUniqueName": "C:\\Jeferson\\Projetos de estudos\\mentoriaC#\\Estacionamento\\Estacionamento.csproj",
         "projectName": "Estacionamento",
-        "projectPath": "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\Estacionamento.csproj",
-        "packagesPath": "C:\\Users\\Jeferson\\.nuget\\packages\\",
-        "outputPath": "C:\\Jeferson\\ProjetosParaEstudos\\MentoriaC#\\Estacionamento\\obj\\",
+        "projectPath": "C:\\Jeferson\\Projetos de estudos\\mentoriaC#\\Estacionamento\\Estacionamento.csproj",
+        "packagesPath": "C:\\Users\\jefer\\.nuget\\packages\\",
+        "outputPath": "C:\\Jeferson\\Projetos de estudos\\mentoriaC#\\Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jeferson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jefer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/OutKey/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -72,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

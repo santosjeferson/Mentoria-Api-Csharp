@@ -1,4 +1,5 @@
 using Estacionamento.Contracts;
+using Estacionamento.Data;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Estacionamento.Controllers
@@ -7,23 +8,32 @@ namespace Estacionamento.Controllers
     [Route("api/v1/estacionamento")]
     public class EstacionamentoController : ControllerBase
     {
-        private readonly IEstacionamentoRepository _estacionamentoRepository;
+        //private readonly IEstacionamentoRepository _estacionamentoRepository;
 
         public EstacionamentoController(IEstacionamentoRepository estacionamentoRepository)
         {
-            _estacionamentoRepository = estacionamentoRepository;
+            //  _estacionamentoRepository = estacionamentoRepository;
         }
 
         [HttpGet]
 
         public async Task<IActionResult> GetAllEstacionamento()
         {
-            var estacionamentos = await _estacionamentoRepository.GetEstacionamento();
+            //var estacionamentos = await _estacionamentoRepository.GetEstacionamento();
 
-            if (estacionamentos.Any())
-                return Ok(estacionamentos);
+            //if (estacionamentos.Any())
+            //    return Ok(estacionamentos);
 
-            return NotFound();
+            //return NotFound();
+            EstacionamentoDto estacionamentoDto = new()
+            {
+                Id = 1,
+                Cpf = "12334567891011",
+                Modelo = "tesla",
+                Nome = "Jeferson",
+                Placa = "ORZ5966"
+            };
+            return Ok(estacionamentoDto);
         }
 
         //[HttpPost]

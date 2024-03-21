@@ -69,3 +69,43 @@ C:\Users\Jeferson\Desktop\Estacionamento\Estacionamento\obj\Debug\net6.0\refint\
 C:\Users\Jeferson\Desktop\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
 C:\Users\Jeferson\Desktop\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
 C:\Users\Jeferson\Desktop\Estacionamento\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\appsettings.Development.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\appsettings.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Estacionamento.exe
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Estacionamento.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Estacionamento.pdb
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Dapper.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.sourcelink.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\staticwebassets.build.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\staticwebassets.development.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.build.Estacionamento.props
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Estacionamento.props
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Estacionamento.props
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacion.D5276226.Up2Date
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Jeferson\Projetos de estudos\mentoriaC#\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
